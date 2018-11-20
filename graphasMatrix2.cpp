@@ -46,14 +46,15 @@ int main()
   			cout<<"Is edge "<<i<<" connected with edge "<<j<<" (y/n) \n";
   			cin>>a;
   			if(a=='Y'|| a=='y')
-        {
-          matrix[i][j] =1;
-        }
-        else
-          matrix[i][j] = 0;
+            {
+            matrix[i][j] =1;
+            }
+            else
+            matrix[i][j] = 0;
 
-  			matrix[j][i] = matrix[i][j];
-  		}
+            
+            matrix[j][i] = matrix[i][j];
+        }
   		else
   		{
   			matrix[i][j]=0;
