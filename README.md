@@ -19,6 +19,6 @@
 [Binary Search Tree](https://github.com/aanto07/graphTheoryAssignment/blob/master/bstMap.c) <br/>
 
 5. Find the minimum spanning tree in a weighted graph. <br/>
-**Solution**
+**Solution** <br/>
 [Minimum Spanning Tree](https://github.com/aanto07/graphTheoryAssignment/blob/master/minSpanTree.cpp)
 
