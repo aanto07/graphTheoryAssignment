@@ -11,11 +11,11 @@
  [BFS](https://github.com/aanto07/graphTheoryAssignment/blob/master/shortestPath.cpp) <br/>
  
 3. Implement a program to determine the connectedness and components of a graph. <br/>
-**Solution** 
+**Solution** <br/>
 [Connectivity](https://github.com/aanto07/graphTheoryAssignment/blob/master/connectivityDFS.cpp)<br/>
 
 4. Identify any one application of binary tree and implement it. <br/>
-**Solution**
+**Solution** <br/>
 [Binary Search Tree](https://github.com/aanto07/graphTheoryAssignment/blob/master/bstMap.c) <br/>
 
 5. Find the minimum spanning tree in a weighted graph. <br/>
